@@ -1,6 +1,7 @@
 # npm_package_check
 
-一个用于检查 pnpm-lock.yaml 文件中包版本的命令行工具，支持单包查询和批量检查模式。
+一个用于检查 pnpm-lock.yaml 文件中包版本的命令行工具，支持单包查询和批量检查模式。  
+主要目的是用来检查近期 NPM 包投毒问题。
 
 ## ✨ 功能特点
 
@@ -48,6 +49,7 @@ cargo run -- react --file ./path/to/pnpm-lock.yaml
 ### 支持的文件格式
 
 #### 格式一：标准包列表 (version1.txt)
+检查列表可由 [Shai-Hulud: Self-Replicating Worm Compromises 500+ NPM Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised#affected-packages) 直接复制来  
 ```
 Row	Package Name	Version(s)
 1	react	18.3.1
@@ -56,6 +58,8 @@ Row	Package Name	Version(s)
 ```
 
 #### 格式二：安全报告 (version2.txt)
+检查列表可由 [Shai-Hulud, The Most Dangerous NPM Breach In History Affecting CrowdStrike and Hundreds of Popular Packages](https://www.koi.security/incident/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor) 直接复制来
+
 ```
 Package Name	Compromised Version(s)	Detection Date	Status
 react-malicious	1.0.0	2025-09-16	Removed from NPM
