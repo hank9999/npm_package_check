@@ -1,0 +1,196 @@
+Row	Package Name	Version(s)
+1	@ahmedhfarag/ngx-perfect-scrollbar	20.0.20
+2	@ahmedhfarag/ngx-virtual-scroller	4.0.4
+3	@art-ws/common	2.0.22, 2.0.28
+4	@art-ws/config-eslint	2.0.4, 2.0.5
+5	@art-ws/config-ts	2.0.7, 2.0.8
+6	@art-ws/db-context	2.0.24
+7	@art-ws/di	2.0.28, 2.0.32
+8	@art-ws/di-node	2.0.13
+9	@art-ws/eslint	1.0.5, 1.0.6
+10	@art-ws/fastify-http-server	2.0.24, 2.0.27
+11	@art-ws/http-server	2.0.21, 2.0.25
+12	@art-ws/openapi	0.1.9, 0.1.12
+13	@art-ws/package-base	1.0.5, 1.0.6
+14	@art-ws/prettier	1.0.5, 1.0.6
+15	@art-ws/slf	2.0.15, 2.0.22
+16	@art-ws/ssl-info	1.0.9, 1.0.10
+17	@art-ws/web-app	1.0.3, 1.0.4
+18	@crowdstrike/commitlint	8.1.1, 8.1.2
+19	@crowdstrike/falcon-shoelace	0.4.1, 0.4.2
+20	@crowdstrike/foundry-js	0.19.1, 0.19.2
+21	@crowdstrike/glide-core	0.34.2, 0.34.3
+22	@crowdstrike/logscale-dashboard	1.205.1, 1.205.2
+23	@crowdstrike/logscale-file-editor	1.205.1, 1.205.2
+24	@crowdstrike/logscale-parser-edit	1.205.1, 1.205.2
+25	@crowdstrike/logscale-search	1.205.1, 1.205.2
+26	@crowdstrike/tailwind-toucan-base	5.0.1, 5.0.2
+27	@ctrl/deluge	7.2.1, 7.2.2
+28	@ctrl/golang-template	1.4.2, 1.4.3
+29	@ctrl/magnet-link	4.0.3, 4.0.4
+30	@ctrl/ngx-codemirror	7.0.1, 7.0.2
+31	@ctrl/ngx-csv	6.0.1, 6.0.2
+32	@ctrl/ngx-emoji-mart	9.2.1, 9.2.2
+33	@ctrl/ngx-rightclick	4.0.1, 4.0.2
+34	@ctrl/qbittorrent	9.7.1, 9.7.2
+35	@ctrl/react-adsense	2.0.1, 2.0.2
+36	@ctrl/shared-torrent	6.3.1, 6.3.2
+37	@ctrl/tinycolor	4.1.1, 4.1.2
+38	@ctrl/torrent-file	4.1.1, 4.1.2
+39	@ctrl/transmission	7.3.1
+40	@ctrl/ts-base32	4.0.1, 4.0.2
+41	@hestjs/core	0.2.1
+42	@hestjs/cqrs	0.1.6
+43	@hestjs/demo	0.1.2
+44	@hestjs/eslint-config	0.1.2
+45	@hestjs/logger	0.1.6
+46	@hestjs/scalar	0.1.7
+47	@hestjs/validation	0.1.6
+48	@nativescript-community/arraybuffers	1.1.6, 1.1.7, 1.1.8
+49	@nativescript-community/gesturehandler	2.0.35
+50	@nativescript-community/perms	3.0.5, 3.0.6, 3.0.7, 3.0.8
+51	@nativescript-community/sentry	4.6.43
+52	@nativescript-community/sqlite	3.5.2, 3.5.3, 3.5.4, 3.5.5
+53	@nativescript-community/text	1.6.9, 1.6.10, 1.6.11, 1.6.12, 1.6.13
+54	@nativescript-community/typeorm	0.2.30, 0.2.31, 0.2.32, 0.2.33
+55	@nativescript-community/ui-collectionview	6.0.6
+56	@nativescript-community/ui-document-picker	1.1.27, 1.1.28
+57	@nativescript-community/ui-drawer	0.1.30
+58	@nativescript-community/ui-image	4.5.6
+59	@nativescript-community/ui-label	1.3.35, 1.3.36, 1.3.37
+60	@nativescript-community/ui-material-bottom-navigation	7.2.72, 7.2.73, 7.2.74, 7.2.75
+61	@nativescript-community/ui-material-bottomsheet	7.2.72
+62	@nativescript-community/ui-material-core	7.2.72, 7.2.73, 7.2.74, 7.2.75, 7.2.76
+63	@nativescript-community/ui-material-core-tabs	7.2.72, 7.2.73, 7.2.74, 7.2.75, 7.2.76
+64	@nativescript-community/ui-material-ripple	7.2.72, 7.2.73, 7.2.74, 7.2.75
+65	@nativescript-community/ui-material-tabs	7.2.72, 7.2.73, 7.2.74, 7.2.75
+66	@nativescript-community/ui-pager	14.1.36, 14.1.37, 14.1.38
+67	@nativescript-community/ui-pulltorefresh	2.5.4, 2.5.5, 2.5.6, 2.5.7
+68	@nexe/config-manager	0.1.1
+69	@nexe/eslint-config	0.1.1
+70	@nexe/logger	0.1.3
+71	@nstudio/angular	20.0.4, 20.0.5, 20.0.6
+72	@nstudio/focus	20.0.4, 20.0.5, 20.0.6
+73	@nstudio/nativescript-checkbox	2.0.6, 2.0.7, 2.0.8, 2.0.9
+74	@nstudio/nativescript-loading-indicator	5.0.1, 5.0.2, 5.0.3, 5.0.4
+75	@nstudio/ui-collectionview	5.1.11, 5.1.12, 5.1.13, 5.1.14
+76	@nstudio/web	20.0.4
+77	@nstudio/web-angular	20.0.4
+78	@nstudio/xplat	20.0.5, 20.0.6, 20.0.7
+79	@nstudio/xplat-utils	20.0.5, 20.0.6, 20.0.7
+80	@operato/board	9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51
+81	@operato/data-grist	9.0.29, 9.0.35, 9.0.36, 9.0.37
+82	@operato/graphql	9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46
+83	@operato/headroom	9.0.2, 9.0.35, 9.0.36, 9.0.37
+84	@operato/help	9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46
+85	@operato/i18n	9.0.35, 9.0.36, 9.0.37
+86	@operato/input	9.0.27, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48
+87	@operato/layout	9.0.35, 9.0.36, 9.0.37
+88	@operato/popup	9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.49
+89	@operato/pull-to-refresh	9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42
+90	@operato/shell	9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39
+91	@operato/styles	9.0.2, 9.0.35, 9.0.36, 9.0.37
+92	@operato/utils	9.0.22, 9.0.35, 9.0.36, 9.0.37, 9.0.38, 9.0.39, 9.0.40, 9.0.41, 9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.49
+93	@teselagen/bio-parsers	0.4.30
+94	@teselagen/bounce-loader	0.3.16, 0.3.17
+95	@teselagen/file-utils	0.3.22
+96	@teselagen/liquibase-tools	0.4.1
+97	@teselagen/ove	0.7.40
+98	@teselagen/range-utils	0.3.14, 0.3.15
+99	@teselagen/react-list	0.8.19, 0.8.20
+100	@teselagen/react-table	6.10.19, 6.10.20, 6.10.22
+101	@teselagen/sequence-utils	0.3.34
+102	@teselagen/ui	0.9.10
+103	@thangved/callback-window	1.1.4
+104	@things-factory/attachment-base	9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50
+105	@things-factory/auth-base	9.0.43, 9.0.44, 9.0.45
+106	@things-factory/email-base	9.0.42, 9.0.43, 9.0.44, 9.0.45, 9.0.46, 9.0.47, 9.0.48, 9.0.49, 9.0.50, 9.0.51, 9.0.52, 9.0.53, 9.0.54
+107	@things-factory/env	9.0.42, 9.0.43, 9.0.44, 9.0.45
+108	@things-factory/integration-base	9.0.43, 9.0.44, 9.0.45
+109	@things-factory/integration-marketplace	9.0.43, 9.0.44, 9.0.45
+110	@things-factory/shell	9.0.43, 9.0.44, 9.0.45
+111	@tnf-dev/api	1.0.8
+112	@tnf-dev/core	1.0.8
+113	@tnf-dev/js	1.0.8
+114	@tnf-dev/mui	1.0.8
+115	@tnf-dev/react	1.0.8
+116	@ui-ux-gang/devextreme-angular-rpk	24.1.7
+117	@yoobic/design-system	6.5.17
+118	@yoobic/jpeg-camera-es6	1.0.13
+119	@yoobic/yobi	8.7.53
+120	airchief	0.3.1
+121	airpilot	0.8.8
+122	angulartics2	14.1.1, 14.1.2
+123	browser-webdriver-downloader	3.0.8
+124	capacitor-notificationhandler	0.0.2, 0.0.3
+125	capacitor-plugin-healthapp	0.0.2, 0.0.3
+126	capacitor-plugin-ihealth	1.1.8, 1.1.9
+127	capacitor-plugin-vonage	1.0.2, 1.0.3
+128	capacitorandroidpermissions	0.0.4, 0.0.5
+129	config-cordova	0.8.5
+130	cordova-plugin-voxeet2	1.0.24
+131	cordova-voxeet	1.0.32
+132	create-hest-app	0.1.9
+133	db-evo	1.1.4, 1.1.5
+134	devextreme-angular-rpk	21.2.8
+135	ember-browser-services	5.0.2, 5.0.3
+136	ember-headless-form	1.1.2, 1.1.3
+137	ember-headless-form-yup	1.0.1
+138	ember-headless-table	2.1.5, 2.1.6
+139	ember-url-hash-polyfill	1.0.12, 1.0.13
+140	ember-velcro	2.2.1, 2.2.2
+141	encounter-playground	0.0.2, 0.0.3, 0.0.4, 0.0.5
+142	eslint-config-crowdstrike	11.0.2, 11.0.3
+143	eslint-config-crowdstrike-node	4.0.3, 4.0.4
+144	eslint-config-teselagen	6.1.7, 6.1.8
+145	globalize-rpk	1.7.4
+146	graphql-sequelize-teselagen	5.3.8, 5.3.9
+147	html-to-base64-image	1.0.2
+148	json-rules-engine-simplified	0.2.1, 0.2.4
+149	jumpgate	0.0.2
+150	koa2-swagger-ui	5.11.1, 5.11.2
+151	mcfly-semantic-release	1.3.1
+152	mcp-knowledge-base	0.0.2
+153	mcp-knowledge-graph	1.2.1
+154	mobioffice-cli	1.0.3
+155	monorepo-next	13.0.1, 13.0.2
+156	mstate-angular	0.4.4
+157	mstate-cli	0.4.7
+158	mstate-dev-react	1.1.1
+159	mstate-react	1.6.5
+160	ng2-file-upload	7.0.2, 7.0.3, 8.0.1, 8.0.2, 8.0.3, 9.0.1
+161	ngx-bootstrap	18.1.4, 19.0.3, 19.0.4, 20.0.3, 20.0.4, 20.0.5
+162	ngx-color	10.0.1, 10.0.2
+163	ngx-toastr	19.0.1, 19.0.2
+164	ngx-trend	8.0.1
+165	ngx-ws	1.1.5, 1.1.6
+166	oradm-to-gql	35.0.14, 35.0.15
+167	oradm-to-sqlz	1.1.2, 1.1.5
+168	ove-auto-annotate	0.0.9, 0.0.10
+169	pm2-gelf-json	1.0.4, 1.0.5
+170	printjs-rpk	1.6.1
+171	react-complaint-image	0.0.32, 0.0.35
+172	react-jsonschema-form-conditionals	0.3.18, 0.3.21
+173	react-jsonschema-form-extras	1.0.4
+174	react-jsonschema-rxnt-extras	0.4.9
+175	remark-preset-lint-crowdstrike	4.0.1, 4.0.2
+176	rxnt-authentication	0.0.3, 0.0.4, 0.0.5, 0.0.6
+177	rxnt-healthchecks-nestjs	1.0.2, 1.0.3, 1.0.4, 1.0.5
+178	rxnt-kue	1.0.4, 1.0.5, 1.0.6, 1.0.7
+179	swc-plugin-component-annotate	1.9.1, 1.9.2
+180	tbssnch	1.0.2
+181	teselagen-interval-tree	1.1.2
+182	tg-client-query-builder	2.14.4, 2.14.5
+183	tg-redbird	1.3.1, 1.3.2
+184	tg-seq-gen	1.0.9, 1.0.10
+185	thangved-react-grid	1.0.3
+186	ts-gaussian	3.0.5, 3.0.6
+187	ts-imports	1.0.1, 1.0.2
+188	tvi-cli	0.1.5
+189	ve-bamreader	0.2.6, 0.2.7
+190	ve-editor	1.0.1, 1.0.2
+191	verror-extra	6.0.1
+192	voip-callkit	1.0.2, 1.0.3
+193	wdio-web-reporter	0.1.3
+194	yargs-help-output	5.0.3
+195	yoo-styles	6.0.326
